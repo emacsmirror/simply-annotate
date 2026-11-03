@@ -623,7 +623,7 @@ Also used as a regexp in font-lock; avoid special regexp characters."
 
 ;; Define faces for the indicators
 (defface simply-annotate-fringe-face
-  '((t (:foreground "orange" :background nil)))
+  '((t (:foreground "orange")))
   "Face for fringe annotation indicators."
   :group 'simply-annotate)
 
